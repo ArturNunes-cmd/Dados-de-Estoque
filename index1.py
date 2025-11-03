@@ -7,7 +7,7 @@ plt.bar(produtos, Quantidades, color=['#7dafff', '#9be7a1', '#ff9999', '#c9a0dc'
 
 plt.title("Comparação de Produtos", fontsize=15)
 
-plt.xlabel("Produtos")
+plt.xlabel("Produtos", fontsize=15)
 
 plt.ylabel("Quantidades")
 
