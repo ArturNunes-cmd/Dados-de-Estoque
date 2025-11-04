@@ -9,10 +9,11 @@ Este projeto apresenta **gráficos gerados com a biblioteca Matplotlib**, explor
 ### 📈 1. Gráfico de Linha — Evolução do Estoque
 Mostra a variação do estoque ao longo dos dias.
 
-```python
-plt.plot(dias, estoque)
-plt.title("Estoque ao longo dos dias", fontsize=15)
-plt.xlabel("Dias")
-plt.ylabel("Estoque")
-plt.legend()
-plt.show()
+### 📊 2. Gráfico de Barras — Comparação de Produtos
+Compara a quantidade disponível de cada produto.
+
+### 🍕 3. Gráfico de Pizza — Proporção de Categorias
+Um gráfico de pizza com suas categorias e mostrando suas porcentagens.
+
+### 💎 4. Gráfico de Dispersão — Preço vs Quantidade
+Um gráfico de dispersão mostrando como o preço influencia na quantidade disponível.
