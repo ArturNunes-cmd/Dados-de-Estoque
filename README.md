@@ -17,3 +17,8 @@ Um gráfico de pizza com suas categorias e mostrando suas porcentagens.
 
 ### 💎 4. Gráfico de Dispersão — Preço vs Quantidade
 Um gráfico de dispersão mostrando como o preço influencia na quantidade disponível.
+
+### 🧰 Tecnologias Utilizadas
+- **Ptyhon 3**
+- **Matplotlib**
+- **NumPy**
